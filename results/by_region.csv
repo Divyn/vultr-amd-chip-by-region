@@ -1,0 +1,7 @@
+region,city,servers,chips,fastest_s,slowest_s,median_s
+ewr,New Jersey,4,AMD EPYC-Milan Processor: 3; AMD EPYC-Rome Processor: 1,34.91,64.64,39.91
+fra,Frankfurt,4,AMD EPYC-Genoa Processor: 4,24.3,27.74,26.61
+bom,Mumbai,4,AMD EPYC-Rome Processor: 4,45.84,51.0,50.64
+sgp,Singapore,4,AMD EPYC-Milan Processor: 2; AMD EPYC-Rome Processor: 2,36.43,70.87,59.17
+syd,Sydney,4,AMD EPYC-Rome Processor: 4,37.88,39.9,38.33
+sea,Seattle,8,AMD EPYC-Genoa Processor: 2; AMD EPYC-Rome Processor: 6,25.65,43.13,41.17

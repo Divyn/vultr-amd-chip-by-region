@@ -1,0 +1,5 @@
+CPU(s):                                  2
+Model name:                              AMD EPYC-Rome Processor
+Mem:            3916         351        3614           0         143        3564
+Debian GNU/Linux 13 (trixie)
+6.12.117+deb13-amd64

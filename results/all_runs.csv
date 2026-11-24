@@ -1,0 +1,421 @@
+server,region,city,cpu,round,job,seconds,steal_pct,started_utc
+bom-a,bom,Mumbai,AMD EPYC-Rome Processor,1,orderbook,4.300,0.00,2026-11-24T14:22:32Z
+bom-a,bom,Mumbai,AMD EPYC-Rome Processor,1,pandas_csv,1.403,0.00,2026-11-24T14:22:36Z
+bom-a,bom,Mumbai,AMD EPYC-Rome Processor,1,json,3.276,0.00,2026-11-24T14:22:38Z
+bom-a,bom,Mumbai,AMD EPYC-Rome Processor,1,compile_sqlite,39.540,0.04,2026-11-24T14:22:41Z
+bom-a,bom,Mumbai,AMD EPYC-Rome Processor,1,zstd_2_cores,6.084,0.00,2026-11-24T14:23:20Z
+bom-a,bom,Mumbai,AMD EPYC-Rome Processor,2,pandas_csv,1.323,0.00,2026-11-24T14:23:26Z
+bom-a,bom,Mumbai,AMD EPYC-Rome Processor,2,json,2.754,0.00,2026-11-24T14:23:28Z
+bom-a,bom,Mumbai,AMD EPYC-Rome Processor,2,compile_sqlite,35.959,0.01,2026-11-24T14:23:31Z
+bom-a,bom,Mumbai,AMD EPYC-Rome Processor,2,zstd_2_cores,5.726,0.00,2026-11-24T14:24:07Z
+bom-a,bom,Mumbai,AMD EPYC-Rome Processor,2,orderbook,4.329,0.00,2026-11-24T14:24:12Z
+bom-a,bom,Mumbai,AMD EPYC-Rome Processor,3,json,2.869,0.00,2026-11-24T14:24:17Z
+bom-a,bom,Mumbai,AMD EPYC-Rome Processor,3,compile_sqlite,35.532,0.01,2026-11-24T14:24:19Z
+bom-a,bom,Mumbai,AMD EPYC-Rome Processor,3,zstd_2_cores,6.157,0.08,2026-11-24T14:24:55Z
+bom-a,bom,Mumbai,AMD EPYC-Rome Processor,3,orderbook,4.017,0.12,2026-11-24T14:25:01Z
+bom-a,bom,Mumbai,AMD EPYC-Rome Processor,3,pandas_csv,1.310,0.00,2026-11-24T14:25:05Z
+bom-b,bom,Mumbai,AMD EPYC-Rome Processor,1,orderbook,3.864,0.00,2026-11-24T14:22:51Z
+bom-b,bom,Mumbai,AMD EPYC-Rome Processor,1,pandas_csv,1.276,0.00,2026-11-24T14:22:55Z
+bom-b,bom,Mumbai,AMD EPYC-Rome Processor,1,json,2.823,0.00,2026-11-24T14:22:56Z
+bom-b,bom,Mumbai,AMD EPYC-Rome Processor,1,compile_sqlite,37.603,0.00,2026-11-24T14:22:59Z
+bom-b,bom,Mumbai,AMD EPYC-Rome Processor,1,zstd_2_cores,6.023,0.00,2026-11-24T14:23:37Z
+bom-b,bom,Mumbai,AMD EPYC-Rome Processor,2,pandas_csv,1.215,0.00,2026-11-24T14:23:43Z
+bom-b,bom,Mumbai,AMD EPYC-Rome Processor,2,json,3.108,0.00,2026-11-24T14:23:44Z
+bom-b,bom,Mumbai,AMD EPYC-Rome Processor,2,compile_sqlite,36.386,0.01,2026-11-24T14:23:47Z
+bom-b,bom,Mumbai,AMD EPYC-Rome Processor,2,zstd_2_cores,6.354,0.00,2026-11-24T14:24:24Z
+bom-b,bom,Mumbai,AMD EPYC-Rome Processor,2,orderbook,3.565,0.00,2026-11-24T14:24:30Z
+bom-b,bom,Mumbai,AMD EPYC-Rome Processor,3,json,2.616,0.00,2026-11-24T14:24:34Z
+bom-b,bom,Mumbai,AMD EPYC-Rome Processor,3,compile_sqlite,37.081,0.01,2026-11-24T14:24:36Z
+bom-b,bom,Mumbai,AMD EPYC-Rome Processor,3,zstd_2_cores,5.684,0.00,2026-11-24T14:25:13Z
+bom-b,bom,Mumbai,AMD EPYC-Rome Processor,3,orderbook,3.367,0.00,2026-11-24T14:25:19Z
+bom-b,bom,Mumbai,AMD EPYC-Rome Processor,3,pandas_csv,1.309,0.00,2026-11-24T14:25:22Z
+bom-c,bom,Mumbai,AMD EPYC-Rome Processor,1,orderbook,3.847,0.00,2026-11-24T14:22:28Z
+bom-c,bom,Mumbai,AMD EPYC-Rome Processor,1,pandas_csv,1.317,0.00,2026-11-24T14:22:32Z
+bom-c,bom,Mumbai,AMD EPYC-Rome Processor,1,json,3.131,0.00,2026-11-24T14:22:33Z
+bom-c,bom,Mumbai,AMD EPYC-Rome Processor,1,compile_sqlite,37.314,0.00,2026-11-24T14:22:36Z
+bom-c,bom,Mumbai,AMD EPYC-Rome Processor,1,zstd_2_cores,6.078,0.08,2026-11-24T14:23:14Z
+bom-c,bom,Mumbai,AMD EPYC-Rome Processor,2,pandas_csv,1.231,0.00,2026-11-24T14:23:20Z
+bom-c,bom,Mumbai,AMD EPYC-Rome Processor,2,json,2.754,0.00,2026-11-24T14:23:21Z
+bom-c,bom,Mumbai,AMD EPYC-Rome Processor,2,compile_sqlite,38.071,0.00,2026-11-24T14:23:24Z
+bom-c,bom,Mumbai,AMD EPYC-Rome Processor,2,zstd_2_cores,6.146,0.00,2026-11-24T14:24:02Z
+bom-c,bom,Mumbai,AMD EPYC-Rome Processor,2,orderbook,3.509,0.00,2026-11-24T14:24:08Z
+bom-c,bom,Mumbai,AMD EPYC-Rome Processor,3,json,2.776,0.00,2026-11-24T14:24:11Z
+bom-c,bom,Mumbai,AMD EPYC-Rome Processor,3,compile_sqlite,35.744,0.01,2026-11-24T14:24:14Z
+bom-c,bom,Mumbai,AMD EPYC-Rome Processor,3,zstd_2_cores,5.555,0.00,2026-11-24T14:24:50Z
+bom-c,bom,Mumbai,AMD EPYC-Rome Processor,3,orderbook,3.331,0.00,2026-11-24T14:24:55Z
+bom-c,bom,Mumbai,AMD EPYC-Rome Processor,3,pandas_csv,1.339,0.00,2026-11-24T14:24:59Z
+bom-d,bom,Mumbai,AMD EPYC-Rome Processor,1,orderbook,4.309,0.00,2026-11-24T14:22:40Z
+bom-d,bom,Mumbai,AMD EPYC-Rome Processor,1,pandas_csv,1.130,0.00,2026-11-24T14:22:45Z
+bom-d,bom,Mumbai,AMD EPYC-Rome Processor,1,json,2.666,0.00,2026-11-24T14:22:46Z
+bom-d,bom,Mumbai,AMD EPYC-Rome Processor,1,compile_sqlite,34.287,0.00,2026-11-24T14:22:48Z
+bom-d,bom,Mumbai,AMD EPYC-Rome Processor,1,zstd_2_cores,5.954,0.00,2026-11-24T14:23:23Z
+bom-d,bom,Mumbai,AMD EPYC-Rome Processor,2,pandas_csv,1.122,0.00,2026-11-24T14:23:29Z
+bom-d,bom,Mumbai,AMD EPYC-Rome Processor,2,json,2.676,0.00,2026-11-24T14:23:30Z
+bom-d,bom,Mumbai,AMD EPYC-Rome Processor,2,compile_sqlite,32.711,0.00,2026-11-24T14:23:32Z
+bom-d,bom,Mumbai,AMD EPYC-Rome Processor,2,zstd_2_cores,6.642,0.08,2026-11-24T14:24:05Z
+bom-d,bom,Mumbai,AMD EPYC-Rome Processor,2,orderbook,3.381,0.00,2026-11-24T14:24:12Z
+bom-d,bom,Mumbai,AMD EPYC-Rome Processor,3,json,2.676,0.00,2026-11-24T14:24:15Z
+bom-d,bom,Mumbai,AMD EPYC-Rome Processor,3,compile_sqlite,30.657,0.00,2026-11-24T14:24:18Z
+bom-d,bom,Mumbai,AMD EPYC-Rome Processor,3,zstd_2_cores,4.748,0.00,2026-11-24T14:24:49Z
+bom-d,bom,Mumbai,AMD EPYC-Rome Processor,3,orderbook,3.167,0.00,2026-11-24T14:24:53Z
+bom-d,bom,Mumbai,AMD EPYC-Rome Processor,3,pandas_csv,1.087,0.00,2026-11-24T14:24:56Z
+ewr-a,ewr,New Jersey,AMD EPYC-Rome Processor,1,orderbook,7.116,0.00,2026-11-24T14:23:16Z
+ewr-a,ewr,New Jersey,AMD EPYC-Rome Processor,1,pandas_csv,2.821,0.00,2026-11-24T14:23:23Z
+ewr-a,ewr,New Jersey,AMD EPYC-Rome Processor,1,json,9.373,0.00,2026-11-24T14:23:26Z
+ewr-a,ewr,New Jersey,AMD EPYC-Rome Processor,1,compile_sqlite,55.071,0.02,2026-11-24T14:23:35Z
+ewr-a,ewr,New Jersey,AMD EPYC-Rome Processor,1,zstd_2_cores,6.694,0.07,2026-11-24T14:24:30Z
+ewr-a,ewr,New Jersey,AMD EPYC-Rome Processor,2,pandas_csv,1.342,0.00,2026-11-24T14:24:37Z
+ewr-a,ewr,New Jersey,AMD EPYC-Rome Processor,2,json,2.693,0.00,2026-11-24T14:24:38Z
+ewr-a,ewr,New Jersey,AMD EPYC-Rome Processor,2,compile_sqlite,49.232,0.09,2026-11-24T14:24:41Z
+ewr-a,ewr,New Jersey,AMD EPYC-Rome Processor,2,zstd_2_cores,7.089,0.00,2026-11-24T14:25:30Z
+ewr-a,ewr,New Jersey,AMD EPYC-Rome Processor,2,orderbook,3.868,0.00,2026-11-24T14:25:37Z
+ewr-a,ewr,New Jersey,AMD EPYC-Rome Processor,3,json,3.164,0.16,2026-11-24T14:25:41Z
+ewr-a,ewr,New Jersey,AMD EPYC-Rome Processor,3,compile_sqlite,40.589,0.01,2026-11-24T14:25:44Z
+ewr-a,ewr,New Jersey,AMD EPYC-Rome Processor,3,zstd_2_cores,7.039,0.00,2026-11-24T14:26:25Z
+ewr-a,ewr,New Jersey,AMD EPYC-Rome Processor,3,orderbook,3.592,0.00,2026-11-24T14:26:32Z
+ewr-a,ewr,New Jersey,AMD EPYC-Rome Processor,3,pandas_csv,1.210,0.00,2026-11-24T14:26:35Z
+ewr-b,ewr,New Jersey,AMD EPYC-Milan Processor,1,orderbook,2.531,0.00,2026-11-24T14:22:47Z
+ewr-b,ewr,New Jersey,AMD EPYC-Milan Processor,1,pandas_csv,0.834,0.61,2026-11-24T14:22:50Z
+ewr-b,ewr,New Jersey,AMD EPYC-Milan Processor,1,json,2.253,0.44,2026-11-24T14:22:51Z
+ewr-b,ewr,New Jersey,AMD EPYC-Milan Processor,1,compile_sqlite,25.071,0.12,2026-11-24T14:22:53Z
+ewr-b,ewr,New Jersey,AMD EPYC-Milan Processor,1,zstd_2_cores,4.559,1.21,2026-11-24T14:23:18Z
+ewr-b,ewr,New Jersey,AMD EPYC-Milan Processor,2,pandas_csv,0.896,1.11,2026-11-24T14:23:23Z
+ewr-b,ewr,New Jersey,AMD EPYC-Milan Processor,2,json,2.138,0.70,2026-11-24T14:23:24Z
+ewr-b,ewr,New Jersey,AMD EPYC-Milan Processor,2,compile_sqlite,25.074,0.16,2026-11-24T14:23:26Z
+ewr-b,ewr,New Jersey,AMD EPYC-Milan Processor,2,zstd_2_cores,4.226,0.24,2026-11-24T14:23:51Z
+ewr-b,ewr,New Jersey,AMD EPYC-Milan Processor,2,orderbook,2.389,0.00,2026-11-24T14:23:55Z
+ewr-b,ewr,New Jersey,AMD EPYC-Milan Processor,3,json,2.075,0.24,2026-11-24T14:23:57Z
+ewr-b,ewr,New Jersey,AMD EPYC-Milan Processor,3,compile_sqlite,25.603,0.23,2026-11-24T14:23:59Z
+ewr-b,ewr,New Jersey,AMD EPYC-Milan Processor,3,zstd_2_cores,4.335,0.23,2026-11-24T14:24:25Z
+ewr-b,ewr,New Jersey,AMD EPYC-Milan Processor,3,orderbook,2.498,0.20,2026-11-24T14:24:29Z
+ewr-b,ewr,New Jersey,AMD EPYC-Milan Processor,3,pandas_csv,0.870,0.00,2026-11-24T14:24:32Z
+ewr-c,ewr,New Jersey,AMD EPYC-Milan Processor,1,orderbook,4.203,3.83,2026-11-24T14:22:59Z
+ewr-c,ewr,New Jersey,AMD EPYC-Milan Processor,1,pandas_csv,1.171,9.52,2026-11-24T14:23:03Z
+ewr-c,ewr,New Jersey,AMD EPYC-Milan Processor,1,json,3.901,4.96,2026-11-24T14:23:04Z
+ewr-c,ewr,New Jersey,AMD EPYC-Milan Processor,1,compile_sqlite,32.637,1.94,2026-11-24T14:23:08Z
+ewr-c,ewr,New Jersey,AMD EPYC-Milan Processor,1,zstd_2_cores,5.391,4.45,2026-11-24T14:23:40Z
+ewr-c,ewr,New Jersey,AMD EPYC-Milan Processor,2,pandas_csv,0.974,3.59,2026-11-24T14:23:46Z
+ewr-c,ewr,New Jersey,AMD EPYC-Milan Processor,2,json,2.404,2.49,2026-11-24T14:23:47Z
+ewr-c,ewr,New Jersey,AMD EPYC-Milan Processor,2,compile_sqlite,29.060,1.07,2026-11-24T14:23:49Z
+ewr-c,ewr,New Jersey,AMD EPYC-Milan Processor,2,zstd_2_cores,5.036,3.87,2026-11-24T14:24:18Z
+ewr-c,ewr,New Jersey,AMD EPYC-Milan Processor,2,orderbook,2.963,2.36,2026-11-24T14:24:23Z
+ewr-c,ewr,New Jersey,AMD EPYC-Milan Processor,3,json,2.401,2.07,2026-11-24T14:24:26Z
+ewr-c,ewr,New Jersey,AMD EPYC-Milan Processor,3,compile_sqlite,28.850,1.40,2026-11-24T14:24:29Z
+ewr-c,ewr,New Jersey,AMD EPYC-Milan Processor,3,zstd_2_cores,5.989,9.08,2026-11-24T14:24:58Z
+ewr-c,ewr,New Jersey,AMD EPYC-Milan Processor,3,orderbook,3.173,2.83,2026-11-24T14:25:04Z
+ewr-c,ewr,New Jersey,AMD EPYC-Milan Processor,3,pandas_csv,1.162,9.32,2026-11-24T14:25:07Z
+ewr-d,ewr,New Jersey,AMD EPYC-Milan Processor,1,orderbook,4.160,0.14,2026-11-24T14:22:38Z
+ewr-d,ewr,New Jersey,AMD EPYC-Milan Processor,1,pandas_csv,1.154,1.34,2026-11-24T14:22:42Z
+ewr-d,ewr,New Jersey,AMD EPYC-Milan Processor,1,json,3.716,0.63,2026-11-24T14:22:43Z
+ewr-d,ewr,New Jersey,AMD EPYC-Milan Processor,1,compile_sqlite,26.968,0.56,2026-11-24T14:22:47Z
+ewr-d,ewr,New Jersey,AMD EPYC-Milan Processor,1,zstd_2_cores,4.388,0.34,2026-11-24T14:23:14Z
+ewr-d,ewr,New Jersey,AMD EPYC-Milan Processor,2,pandas_csv,0.857,0.58,2026-11-24T14:23:18Z
+ewr-d,ewr,New Jersey,AMD EPYC-Milan Processor,2,json,3.420,0.68,2026-11-24T14:23:19Z
+ewr-d,ewr,New Jersey,AMD EPYC-Milan Processor,2,compile_sqlite,28.783,0.33,2026-11-24T14:23:22Z
+ewr-d,ewr,New Jersey,AMD EPYC-Milan Processor,2,zstd_2_cores,4.793,0.73,2026-11-24T14:23:51Z
+ewr-d,ewr,New Jersey,AMD EPYC-Milan Processor,2,orderbook,2.581,0.39,2026-11-24T14:23:56Z
+ewr-d,ewr,New Jersey,AMD EPYC-Milan Processor,3,json,2.032,0.25,2026-11-24T14:23:59Z
+ewr-d,ewr,New Jersey,AMD EPYC-Milan Processor,3,compile_sqlite,26.968,0.99,2026-11-24T14:24:01Z
+ewr-d,ewr,New Jersey,AMD EPYC-Milan Processor,3,zstd_2_cores,4.749,1.05,2026-11-24T14:24:28Z
+ewr-d,ewr,New Jersey,AMD EPYC-Milan Processor,3,orderbook,2.579,0.77,2026-11-24T14:24:32Z
+ewr-d,ewr,New Jersey,AMD EPYC-Milan Processor,3,pandas_csv,0.922,1.65,2026-11-24T14:24:35Z
+fra-a,fra,Frankfurt,AMD EPYC-Genoa Processor,1,orderbook,2.201,0.00,2026-11-24T14:22:14Z
+fra-a,fra,Frankfurt,AMD EPYC-Genoa Processor,1,pandas_csv,0.721,0.00,2026-11-24T14:22:16Z
+fra-a,fra,Frankfurt,AMD EPYC-Genoa Processor,1,json,1.845,0.00,2026-11-24T14:22:17Z
+fra-a,fra,Frankfurt,AMD EPYC-Genoa Processor,1,compile_sqlite,20.195,0.02,2026-11-24T14:22:19Z
+fra-a,fra,Frankfurt,AMD EPYC-Genoa Processor,1,zstd_2_cores,3.290,0.00,2026-11-24T14:22:39Z
+fra-a,fra,Frankfurt,AMD EPYC-Genoa Processor,2,pandas_csv,0.696,0.00,2026-11-24T14:22:42Z
+fra-a,fra,Frankfurt,AMD EPYC-Genoa Processor,2,json,1.764,0.00,2026-11-24T14:22:43Z
+fra-a,fra,Frankfurt,AMD EPYC-Genoa Processor,2,compile_sqlite,20.003,0.02,2026-11-24T14:22:45Z
+fra-a,fra,Frankfurt,AMD EPYC-Genoa Processor,2,zstd_2_cores,3.474,0.00,2026-11-24T14:23:05Z
+fra-a,fra,Frankfurt,AMD EPYC-Genoa Processor,2,orderbook,1.988,0.00,2026-11-24T14:23:08Z
+fra-a,fra,Frankfurt,AMD EPYC-Genoa Processor,3,json,1.703,0.00,2026-11-24T14:23:10Z
+fra-a,fra,Frankfurt,AMD EPYC-Genoa Processor,3,compile_sqlite,19.841,0.03,2026-11-24T14:23:12Z
+fra-a,fra,Frankfurt,AMD EPYC-Genoa Processor,3,zstd_2_cores,3.272,0.15,2026-11-24T14:23:32Z
+fra-a,fra,Frankfurt,AMD EPYC-Genoa Processor,3,orderbook,1.964,0.00,2026-11-24T14:23:35Z
+fra-a,fra,Frankfurt,AMD EPYC-Genoa Processor,3,pandas_csv,0.686,0.00,2026-11-24T14:23:37Z
+fra-b,fra,Frankfurt,AMD EPYC-Genoa Processor,1,orderbook,2.193,0.00,2026-11-24T14:22:12Z
+fra-b,fra,Frankfurt,AMD EPYC-Genoa Processor,1,pandas_csv,0.694,0.00,2026-11-24T14:22:14Z
+fra-b,fra,Frankfurt,AMD EPYC-Genoa Processor,1,json,1.676,0.30,2026-11-24T14:22:15Z
+fra-b,fra,Frankfurt,AMD EPYC-Genoa Processor,1,compile_sqlite,20.161,0.00,2026-11-24T14:22:17Z
+fra-b,fra,Frankfurt,AMD EPYC-Genoa Processor,1,zstd_2_cores,3.340,0.00,2026-11-24T14:22:37Z
+fra-b,fra,Frankfurt,AMD EPYC-Genoa Processor,2,pandas_csv,0.695,0.00,2026-11-24T14:22:40Z
+fra-b,fra,Frankfurt,AMD EPYC-Genoa Processor,2,json,1.665,0.00,2026-11-24T14:22:41Z
+fra-b,fra,Frankfurt,AMD EPYC-Genoa Processor,2,compile_sqlite,19.294,0.03,2026-11-24T14:22:43Z
+fra-b,fra,Frankfurt,AMD EPYC-Genoa Processor,2,zstd_2_cores,3.419,0.00,2026-11-24T14:23:02Z
+fra-b,fra,Frankfurt,AMD EPYC-Genoa Processor,2,orderbook,2.092,0.00,2026-11-24T14:23:05Z
+fra-b,fra,Frankfurt,AMD EPYC-Genoa Processor,3,json,1.682,0.00,2026-11-24T14:23:07Z
+fra-b,fra,Frankfurt,AMD EPYC-Genoa Processor,3,compile_sqlite,19.468,0.03,2026-11-24T14:23:09Z
+fra-b,fra,Frankfurt,AMD EPYC-Genoa Processor,3,zstd_2_cores,3.450,0.00,2026-11-24T14:23:29Z
+fra-b,fra,Frankfurt,AMD EPYC-Genoa Processor,3,orderbook,2.033,0.00,2026-11-24T14:23:32Z
+fra-b,fra,Frankfurt,AMD EPYC-Genoa Processor,3,pandas_csv,0.719,0.00,2026-11-24T14:23:34Z
+fra-c,fra,Frankfurt,AMD EPYC-Genoa Processor,1,orderbook,2.042,0.00,2026-11-24T14:22:13Z
+fra-c,fra,Frankfurt,AMD EPYC-Genoa Processor,1,pandas_csv,0.650,0.00,2026-11-24T14:22:15Z
+fra-c,fra,Frankfurt,AMD EPYC-Genoa Processor,1,json,1.819,0.00,2026-11-24T14:22:15Z
+fra-c,fra,Frankfurt,AMD EPYC-Genoa Processor,1,compile_sqlite,18.708,0.03,2026-11-24T14:22:17Z
+fra-c,fra,Frankfurt,AMD EPYC-Genoa Processor,1,zstd_2_cores,3.265,0.00,2026-11-24T14:22:36Z
+fra-c,fra,Frankfurt,AMD EPYC-Genoa Processor,2,pandas_csv,0.657,0.00,2026-11-24T14:22:39Z
+fra-c,fra,Frankfurt,AMD EPYC-Genoa Processor,2,json,1.630,0.00,2026-11-24T14:22:40Z
+fra-c,fra,Frankfurt,AMD EPYC-Genoa Processor,2,compile_sqlite,18.656,0.00,2026-11-24T14:22:41Z
+fra-c,fra,Frankfurt,AMD EPYC-Genoa Processor,2,zstd_2_cores,3.004,0.00,2026-11-24T14:23:00Z
+fra-c,fra,Frankfurt,AMD EPYC-Genoa Processor,2,orderbook,1.860,0.00,2026-11-24T14:23:03Z
+fra-c,fra,Frankfurt,AMD EPYC-Genoa Processor,3,json,1.655,0.00,2026-11-24T14:23:05Z
+fra-c,fra,Frankfurt,AMD EPYC-Genoa Processor,3,compile_sqlite,18.554,0.00,2026-11-24T14:23:07Z
+fra-c,fra,Frankfurt,AMD EPYC-Genoa Processor,3,zstd_2_cores,2.954,0.00,2026-11-24T14:23:25Z
+fra-c,fra,Frankfurt,AMD EPYC-Genoa Processor,3,orderbook,1.887,0.00,2026-11-24T14:23:28Z
+fra-c,fra,Frankfurt,AMD EPYC-Genoa Processor,3,pandas_csv,0.683,0.00,2026-11-24T14:23:30Z
+fra-d,fra,Frankfurt,AMD EPYC-Genoa Processor,1,orderbook,1.881,0.00,2026-11-24T14:22:13Z
+fra-d,fra,Frankfurt,AMD EPYC-Genoa Processor,1,pandas_csv,0.630,0.00,2026-11-24T14:22:15Z
+fra-d,fra,Frankfurt,AMD EPYC-Genoa Processor,1,json,1.680,0.00,2026-11-24T14:22:15Z
+fra-d,fra,Frankfurt,AMD EPYC-Genoa Processor,1,compile_sqlite,17.803,0.03,2026-11-24T14:22:17Z
+fra-d,fra,Frankfurt,AMD EPYC-Genoa Processor,1,zstd_2_cores,2.713,0.00,2026-11-24T14:22:35Z
+fra-d,fra,Frankfurt,AMD EPYC-Genoa Processor,2,pandas_csv,0.626,0.00,2026-11-24T14:22:37Z
+fra-d,fra,Frankfurt,AMD EPYC-Genoa Processor,2,json,1.530,0.00,2026-11-24T14:22:38Z
+fra-d,fra,Frankfurt,AMD EPYC-Genoa Processor,2,compile_sqlite,17.623,0.00,2026-11-24T14:22:40Z
+fra-d,fra,Frankfurt,AMD EPYC-Genoa Processor,2,zstd_2_cores,2.726,0.00,2026-11-24T14:22:57Z
+fra-d,fra,Frankfurt,AMD EPYC-Genoa Processor,2,orderbook,1.760,0.00,2026-11-24T14:23:00Z
+fra-d,fra,Frankfurt,AMD EPYC-Genoa Processor,3,json,1.541,0.00,2026-11-24T14:23:02Z
+fra-d,fra,Frankfurt,AMD EPYC-Genoa Processor,3,compile_sqlite,17.627,0.00,2026-11-24T14:23:03Z
+fra-d,fra,Frankfurt,AMD EPYC-Genoa Processor,3,zstd_2_cores,2.676,0.19,2026-11-24T14:23:21Z
+fra-d,fra,Frankfurt,AMD EPYC-Genoa Processor,3,orderbook,1.789,0.00,2026-11-24T14:23:24Z
+fra-d,fra,Frankfurt,AMD EPYC-Genoa Processor,3,pandas_csv,0.625,0.00,2026-11-24T14:23:25Z
+sgp-a,sgp,Singapore,AMD EPYC-Rome Processor,1,orderbook,5.930,0.18,2026-11-24T14:23:45Z
+sgp-a,sgp,Singapore,AMD EPYC-Rome Processor,1,pandas_csv,1.850,0.00,2026-11-24T14:23:50Z
+sgp-a,sgp,Singapore,AMD EPYC-Rome Processor,1,json,4.910,0.11,2026-11-24T14:23:52Z
+sgp-a,sgp,Singapore,AMD EPYC-Rome Processor,1,compile_sqlite,49.266,0.06,2026-11-24T14:23:57Z
+sgp-a,sgp,Singapore,AMD EPYC-Rome Processor,1,zstd_2_cores,9.634,0.05,2026-11-24T14:24:47Z
+sgp-a,sgp,Singapore,AMD EPYC-Rome Processor,2,pandas_csv,1.599,0.31,2026-11-24T14:24:56Z
+sgp-a,sgp,Singapore,AMD EPYC-Rome Processor,2,json,4.895,1.80,2026-11-24T14:24:58Z
+sgp-a,sgp,Singapore,AMD EPYC-Rome Processor,2,compile_sqlite,49.700,0.06,2026-11-24T14:25:03Z
+sgp-a,sgp,Singapore,AMD EPYC-Rome Processor,2,zstd_2_cores,9.986,0.15,2026-11-24T14:25:52Z
+sgp-a,sgp,Singapore,AMD EPYC-Rome Processor,2,orderbook,5.160,0.29,2026-11-24T14:26:02Z
+sgp-a,sgp,Singapore,AMD EPYC-Rome Processor,3,json,3.873,0.26,2026-11-24T14:26:07Z
+sgp-a,sgp,Singapore,AMD EPYC-Rome Processor,3,compile_sqlite,46.977,0.02,2026-11-24T14:26:11Z
+sgp-a,sgp,Singapore,AMD EPYC-Rome Processor,3,zstd_2_cores,9.948,0.15,2026-11-24T14:26:58Z
+sgp-a,sgp,Singapore,AMD EPYC-Rome Processor,3,orderbook,4.553,0.11,2026-11-24T14:27:08Z
+sgp-a,sgp,Singapore,AMD EPYC-Rome Processor,3,pandas_csv,1.513,0.00,2026-11-24T14:27:13Z
+sgp-b,sgp,Singapore,AMD EPYC-Rome Processor,1,orderbook,5.170,1.55,2026-11-24T14:23:44Z
+sgp-b,sgp,Singapore,AMD EPYC-Rome Processor,1,pandas_csv,1.750,4.47,2026-11-24T14:23:49Z
+sgp-b,sgp,Singapore,AMD EPYC-Rome Processor,1,json,4.195,3.34,2026-11-24T14:23:51Z
+sgp-b,sgp,Singapore,AMD EPYC-Rome Processor,1,compile_sqlite,50.429,1.24,2026-11-24T14:23:55Z
+sgp-b,sgp,Singapore,AMD EPYC-Rome Processor,1,zstd_2_cores,8.123,1.66,2026-11-24T14:24:45Z
+sgp-b,sgp,Singapore,AMD EPYC-Rome Processor,2,pandas_csv,1.677,6.73,2026-11-24T14:24:53Z
+sgp-b,sgp,Singapore,AMD EPYC-Rome Processor,2,json,4.054,3.20,2026-11-24T14:24:55Z
+sgp-b,sgp,Singapore,AMD EPYC-Rome Processor,2,compile_sqlite,51.419,1.50,2026-11-24T14:24:59Z
+sgp-b,sgp,Singapore,AMD EPYC-Rome Processor,2,zstd_2_cores,8.849,4.17,2026-11-24T14:25:51Z
+sgp-b,sgp,Singapore,AMD EPYC-Rome Processor,2,orderbook,5.796,2.15,2026-11-24T14:25:59Z
+sgp-b,sgp,Singapore,AMD EPYC-Rome Processor,3,json,5.013,6.65,2026-11-24T14:26:05Z
+sgp-b,sgp,Singapore,AMD EPYC-Rome Processor,3,compile_sqlite,48.432,1.13,2026-11-24T14:26:10Z
+sgp-b,sgp,Singapore,AMD EPYC-Rome Processor,3,zstd_2_cores,8.256,2.66,2026-11-24T14:26:59Z
+sgp-b,sgp,Singapore,AMD EPYC-Rome Processor,3,orderbook,5.332,0.47,2026-11-24T14:27:07Z
+sgp-b,sgp,Singapore,AMD EPYC-Rome Processor,3,pandas_csv,1.626,3.08,2026-11-24T14:27:12Z
+sgp-c,sgp,Singapore,AMD EPYC-Milan Processor,1,orderbook,5.100,5.99,2026-11-24T14:23:18Z
+sgp-c,sgp,Singapore,AMD EPYC-Milan Processor,1,pandas_csv,2.229,8.47,2026-11-24T14:23:23Z
+sgp-c,sgp,Singapore,AMD EPYC-Milan Processor,1,json,5.149,5.68,2026-11-24T14:23:26Z
+sgp-c,sgp,Singapore,AMD EPYC-Milan Processor,1,compile_sqlite,36.736,3.43,2026-11-24T14:23:31Z
+sgp-c,sgp,Singapore,AMD EPYC-Milan Processor,1,zstd_2_cores,6.104,11.12,2026-11-24T14:24:07Z
+sgp-c,sgp,Singapore,AMD EPYC-Milan Processor,2,pandas_csv,1.203,12.70,2026-11-24T14:24:14Z
+sgp-c,sgp,Singapore,AMD EPYC-Milan Processor,2,json,3.077,10.47,2026-11-24T14:24:15Z
+sgp-c,sgp,Singapore,AMD EPYC-Milan Processor,2,compile_sqlite,33.732,3.80,2026-11-24T14:24:18Z
+sgp-c,sgp,Singapore,AMD EPYC-Milan Processor,2,zstd_2_cores,6.000,9.71,2026-11-24T14:24:52Z
+sgp-c,sgp,Singapore,AMD EPYC-Milan Processor,2,orderbook,3.343,6.42,2026-11-24T14:24:58Z
+sgp-c,sgp,Singapore,AMD EPYC-Milan Processor,3,json,3.872,20.18,2026-11-24T14:25:01Z
+sgp-c,sgp,Singapore,AMD EPYC-Milan Processor,3,compile_sqlite,31.746,3.55,2026-11-24T14:25:05Z
+sgp-c,sgp,Singapore,AMD EPYC-Milan Processor,3,zstd_2_cores,5.997,9.57,2026-11-24T14:25:37Z
+sgp-c,sgp,Singapore,AMD EPYC-Milan Processor,3,orderbook,3.566,6.17,2026-11-24T14:25:43Z
+sgp-c,sgp,Singapore,AMD EPYC-Milan Processor,3,pandas_csv,1.272,16.67,2026-11-24T14:25:46Z
+sgp-d,sgp,Singapore,AMD EPYC-Milan Processor,1,orderbook,4.303,0.95,2026-11-24T14:23:07Z
+sgp-d,sgp,Singapore,AMD EPYC-Milan Processor,1,pandas_csv,0.882,0.56,2026-11-24T14:23:11Z
+sgp-d,sgp,Singapore,AMD EPYC-Milan Processor,1,json,3.319,0.17,2026-11-24T14:23:12Z
+sgp-d,sgp,Singapore,AMD EPYC-Milan Processor,1,compile_sqlite,29.207,0.59,2026-11-24T14:23:15Z
+sgp-d,sgp,Singapore,AMD EPYC-Milan Processor,1,zstd_2_cores,4.609,0.56,2026-11-24T14:23:45Z
+sgp-d,sgp,Singapore,AMD EPYC-Milan Processor,2,pandas_csv,0.932,2.12,2026-11-24T14:23:49Z
+sgp-d,sgp,Singapore,AMD EPYC-Milan Processor,2,json,2.284,1.09,2026-11-24T14:23:50Z
+sgp-d,sgp,Singapore,AMD EPYC-Milan Processor,2,compile_sqlite,25.472,0.33,2026-11-24T14:23:52Z
+sgp-d,sgp,Singapore,AMD EPYC-Milan Processor,2,zstd_2_cores,4.409,0.91,2026-11-24T14:24:18Z
+sgp-d,sgp,Singapore,AMD EPYC-Milan Processor,2,orderbook,2.472,0.20,2026-11-24T14:24:22Z
+sgp-d,sgp,Singapore,AMD EPYC-Milan Processor,3,json,2.223,1.35,2026-11-24T14:24:25Z
+sgp-d,sgp,Singapore,AMD EPYC-Milan Processor,3,compile_sqlite,26.199,0.29,2026-11-24T14:24:27Z
+sgp-d,sgp,Singapore,AMD EPYC-Milan Processor,3,zstd_2_cores,4.474,0.22,2026-11-24T14:24:53Z
+sgp-d,sgp,Singapore,AMD EPYC-Milan Processor,3,orderbook,2.549,0.39,2026-11-24T14:24:58Z
+sgp-d,sgp,Singapore,AMD EPYC-Milan Processor,3,pandas_csv,0.976,5.03,2026-11-24T14:25:00Z
+syd-a,syd,Sydney,AMD EPYC-Rome Processor,1,orderbook,2.929,0.00,2026-11-24T14:23:06Z
+syd-a,syd,Sydney,AMD EPYC-Rome Processor,1,pandas_csv,1.083,0.00,2026-11-24T14:23:09Z
+syd-a,syd,Sydney,AMD EPYC-Rome Processor,1,json,2.491,0.00,2026-11-24T14:23:10Z
+syd-a,syd,Sydney,AMD EPYC-Rome Processor,1,compile_sqlite,28.072,0.02,2026-11-24T14:23:13Z
+syd-a,syd,Sydney,AMD EPYC-Rome Processor,1,zstd_2_cores,4.549,0.00,2026-11-24T14:23:41Z
+syd-a,syd,Sydney,AMD EPYC-Rome Processor,2,pandas_csv,0.968,0.00,2026-11-24T14:23:46Z
+syd-a,syd,Sydney,AMD EPYC-Rome Processor,2,json,2.218,0.00,2026-11-24T14:23:47Z
+syd-a,syd,Sydney,AMD EPYC-Rome Processor,2,compile_sqlite,28.916,0.02,2026-11-24T14:23:49Z
+syd-a,syd,Sydney,AMD EPYC-Rome Processor,2,zstd_2_cores,4.696,0.00,2026-11-24T14:24:18Z
+syd-a,syd,Sydney,AMD EPYC-Rome Processor,2,orderbook,2.830,0.00,2026-11-24T14:24:22Z
+syd-a,syd,Sydney,AMD EPYC-Rome Processor,3,json,2.308,0.00,2026-11-24T14:24:25Z
+syd-a,syd,Sydney,AMD EPYC-Rome Processor,3,compile_sqlite,29.321,0.02,2026-11-24T14:24:28Z
+syd-a,syd,Sydney,AMD EPYC-Rome Processor,3,zstd_2_cores,4.920,0.00,2026-11-24T14:24:57Z
+syd-a,syd,Sydney,AMD EPYC-Rome Processor,3,orderbook,2.909,0.00,2026-11-24T14:25:02Z
+syd-a,syd,Sydney,AMD EPYC-Rome Processor,3,pandas_csv,1.065,0.00,2026-11-24T14:25:05Z
+syd-b,syd,Sydney,AMD EPYC-Rome Processor,1,orderbook,2.826,0.00,2026-11-24T14:23:20Z
+syd-b,syd,Sydney,AMD EPYC-Rome Processor,1,pandas_csv,0.985,0.00,2026-11-24T14:23:23Z
+syd-b,syd,Sydney,AMD EPYC-Rome Processor,1,json,2.324,0.00,2026-11-24T14:23:24Z
+syd-b,syd,Sydney,AMD EPYC-Rome Processor,1,compile_sqlite,27.516,0.00,2026-11-24T14:23:26Z
+syd-b,syd,Sydney,AMD EPYC-Rome Processor,1,zstd_2_cores,4.263,0.00,2026-11-24T14:23:54Z
+syd-b,syd,Sydney,AMD EPYC-Rome Processor,2,pandas_csv,1.001,0.00,2026-11-24T14:23:58Z
+syd-b,syd,Sydney,AMD EPYC-Rome Processor,2,json,2.392,0.00,2026-11-24T14:23:59Z
+syd-b,syd,Sydney,AMD EPYC-Rome Processor,2,compile_sqlite,27.734,0.00,2026-11-24T14:24:02Z
+syd-b,syd,Sydney,AMD EPYC-Rome Processor,2,zstd_2_cores,4.682,0.00,2026-11-24T14:24:29Z
+syd-b,syd,Sydney,AMD EPYC-Rome Processor,2,orderbook,2.762,0.00,2026-11-24T14:24:34Z
+syd-b,syd,Sydney,AMD EPYC-Rome Processor,3,json,2.118,0.00,2026-11-24T14:24:37Z
+syd-b,syd,Sydney,AMD EPYC-Rome Processor,3,compile_sqlite,28.411,0.02,2026-11-24T14:24:39Z
+syd-b,syd,Sydney,AMD EPYC-Rome Processor,3,zstd_2_cores,4.436,0.00,2026-11-24T14:25:07Z
+syd-b,syd,Sydney,AMD EPYC-Rome Processor,3,orderbook,2.822,0.00,2026-11-24T14:25:12Z
+syd-b,syd,Sydney,AMD EPYC-Rome Processor,3,pandas_csv,0.958,0.00,2026-11-24T14:25:15Z
+syd-c,syd,Sydney,AMD EPYC-Rome Processor,1,orderbook,2.768,0.00,2026-11-24T14:23:23Z
+syd-c,syd,Sydney,AMD EPYC-Rome Processor,1,pandas_csv,0.965,0.00,2026-11-24T14:23:26Z
+syd-c,syd,Sydney,AMD EPYC-Rome Processor,1,json,2.338,0.00,2026-11-24T14:23:27Z
+syd-c,syd,Sydney,AMD EPYC-Rome Processor,1,compile_sqlite,27.463,0.00,2026-11-24T14:23:29Z
+syd-c,syd,Sydney,AMD EPYC-Rome Processor,1,zstd_2_cores,4.306,0.00,2026-11-24T14:23:57Z
+syd-c,syd,Sydney,AMD EPYC-Rome Processor,2,pandas_csv,1.026,0.00,2026-11-24T14:24:01Z
+syd-c,syd,Sydney,AMD EPYC-Rome Processor,2,json,2.164,0.00,2026-11-24T14:24:02Z
+syd-c,syd,Sydney,AMD EPYC-Rome Processor,2,compile_sqlite,27.493,0.00,2026-11-24T14:24:04Z
+syd-c,syd,Sydney,AMD EPYC-Rome Processor,2,zstd_2_cores,4.487,0.00,2026-11-24T14:24:32Z
+syd-c,syd,Sydney,AMD EPYC-Rome Processor,2,orderbook,2.678,0.00,2026-11-24T14:24:36Z
+syd-c,syd,Sydney,AMD EPYC-Rome Processor,3,json,2.202,0.00,2026-11-24T14:24:39Z
+syd-c,syd,Sydney,AMD EPYC-Rome Processor,3,compile_sqlite,27.962,0.00,2026-11-24T14:24:41Z
+syd-c,syd,Sydney,AMD EPYC-Rome Processor,3,zstd_2_cores,4.464,0.00,2026-11-24T14:25:09Z
+syd-c,syd,Sydney,AMD EPYC-Rome Processor,3,orderbook,2.768,0.00,2026-11-24T14:25:13Z
+syd-c,syd,Sydney,AMD EPYC-Rome Processor,3,pandas_csv,0.951,0.00,2026-11-24T14:25:16Z
+syd-d,syd,Sydney,AMD EPYC-Rome Processor,1,orderbook,2.685,0.00,2026-11-24T14:23:31Z
+syd-d,syd,Sydney,AMD EPYC-Rome Processor,1,pandas_csv,0.978,0.00,2026-11-24T14:23:34Z
+syd-d,syd,Sydney,AMD EPYC-Rome Processor,1,json,2.273,0.00,2026-11-24T14:23:35Z
+syd-d,syd,Sydney,AMD EPYC-Rome Processor,1,compile_sqlite,28.005,0.00,2026-11-24T14:23:37Z
+syd-d,syd,Sydney,AMD EPYC-Rome Processor,1,zstd_2_cores,4.311,0.00,2026-11-24T14:24:05Z
+syd-d,syd,Sydney,AMD EPYC-Rome Processor,2,pandas_csv,0.986,0.00,2026-11-24T14:24:09Z
+syd-d,syd,Sydney,AMD EPYC-Rome Processor,2,json,2.287,0.00,2026-11-24T14:24:10Z
+syd-d,syd,Sydney,AMD EPYC-Rome Processor,2,compile_sqlite,27.811,0.00,2026-11-24T14:24:13Z
+syd-d,syd,Sydney,AMD EPYC-Rome Processor,2,zstd_2_cores,4.421,0.00,2026-11-24T14:24:40Z
+syd-d,syd,Sydney,AMD EPYC-Rome Processor,2,orderbook,2.750,0.00,2026-11-24T14:24:45Z
+syd-d,syd,Sydney,AMD EPYC-Rome Processor,3,json,2.173,0.00,2026-11-24T14:24:47Z
+syd-d,syd,Sydney,AMD EPYC-Rome Processor,3,compile_sqlite,28.489,0.00,2026-11-24T14:24:50Z
+syd-d,syd,Sydney,AMD EPYC-Rome Processor,3,zstd_2_cores,4.519,0.00,2026-11-24T14:25:18Z
+syd-d,syd,Sydney,AMD EPYC-Rome Processor,3,orderbook,2.662,0.00,2026-11-24T14:25:23Z
+syd-d,syd,Sydney,AMD EPYC-Rome Processor,3,pandas_csv,0.960,0.00,2026-11-24T14:25:25Z
+sea-a,sea,Seattle,AMD EPYC-Genoa Processor,1,orderbook,1.951,0.00,2026-11-24T06:16:19Z
+sea-a,sea,Seattle,AMD EPYC-Genoa Processor,1,pandas_csv,0.650,0.00,2026-11-24T06:16:21Z
+sea-a,sea,Seattle,AMD EPYC-Genoa Processor,1,json,1.753,0.00,2026-11-24T06:16:22Z
+sea-a,sea,Seattle,AMD EPYC-Genoa Processor,1,compile_sqlite,18.738,0.00,2026-11-24T06:16:24Z
+sea-a,sea,Seattle,AMD EPYC-Genoa Processor,1,zstd_2_cores,2.907,0.00,2026-11-24T06:16:43Z
+sea-a,sea,Seattle,AMD EPYC-Genoa Processor,2,pandas_csv,0.651,0.00,2026-11-24T06:16:45Z
+sea-a,sea,Seattle,AMD EPYC-Genoa Processor,2,json,1.633,0.00,2026-11-24T06:16:46Z
+sea-a,sea,Seattle,AMD EPYC-Genoa Processor,2,compile_sqlite,18.424,0.03,2026-11-24T06:16:48Z
+sea-a,sea,Seattle,AMD EPYC-Genoa Processor,2,zstd_2_cores,3.063,0.00,2026-11-24T06:17:06Z
+sea-a,sea,Seattle,AMD EPYC-Genoa Processor,2,orderbook,1.857,0.00,2026-11-24T06:17:09Z
+sea-a,sea,Seattle,AMD EPYC-Genoa Processor,3,json,1.623,0.00,2026-11-24T06:17:11Z
+sea-a,sea,Seattle,AMD EPYC-Genoa Processor,3,compile_sqlite,18.473,0.00,2026-11-24T06:17:13Z
+sea-a,sea,Seattle,AMD EPYC-Genoa Processor,3,zstd_2_cores,3.037,0.00,2026-11-24T06:17:31Z
+sea-a,sea,Seattle,AMD EPYC-Genoa Processor,3,orderbook,1.904,0.00,2026-11-24T06:17:34Z
+sea-a,sea,Seattle,AMD EPYC-Genoa Processor,3,pandas_csv,0.676,0.00,2026-11-24T06:17:36Z
+sea-b,sea,Seattle,AMD EPYC-Rome Processor,1,orderbook,3.072,0.00,2026-11-24T06:17:21Z
+sea-b,sea,Seattle,AMD EPYC-Rome Processor,1,pandas_csv,1.046,0.00,2026-11-24T06:17:24Z
+sea-b,sea,Seattle,AMD EPYC-Rome Processor,1,json,2.434,0.00,2026-11-24T06:17:25Z
+sea-b,sea,Seattle,AMD EPYC-Rome Processor,1,compile_sqlite,31.115,0.00,2026-11-24T06:17:27Z
+sea-b,sea,Seattle,AMD EPYC-Rome Processor,1,zstd_2_cores,5.278,0.09,2026-11-24T06:17:58Z
+sea-b,sea,Seattle,AMD EPYC-Rome Processor,2,pandas_csv,1.085,0.00,2026-11-24T06:18:04Z
+sea-b,sea,Seattle,AMD EPYC-Rome Processor,2,json,2.446,0.00,2026-11-24T06:18:05Z
+sea-b,sea,Seattle,AMD EPYC-Rome Processor,2,compile_sqlite,30.490,0.00,2026-11-24T06:18:07Z
+sea-b,sea,Seattle,AMD EPYC-Rome Processor,2,zstd_2_cores,4.896,0.00,2026-11-24T06:18:38Z
+sea-b,sea,Seattle,AMD EPYC-Rome Processor,2,orderbook,3.064,0.00,2026-11-24T06:18:43Z
+sea-b,sea,Seattle,AMD EPYC-Rome Processor,3,json,2.520,0.00,2026-11-24T06:18:46Z
+sea-b,sea,Seattle,AMD EPYC-Rome Processor,3,compile_sqlite,29.923,0.02,2026-11-24T06:18:48Z
+sea-b,sea,Seattle,AMD EPYC-Rome Processor,3,zstd_2_cores,4.939,0.00,2026-11-24T06:19:18Z
+sea-b,sea,Seattle,AMD EPYC-Rome Processor,3,orderbook,3.062,0.00,2026-11-24T06:19:23Z
+sea-b,sea,Seattle,AMD EPYC-Rome Processor,3,pandas_csv,1.126,0.00,2026-11-24T06:19:26Z
+sea-c,sea,Seattle,AMD EPYC-Genoa Processor,1,orderbook,1.973,0.00,2026-11-24T06:24:41Z
+sea-c,sea,Seattle,AMD EPYC-Genoa Processor,1,pandas_csv,0.677,0.00,2026-11-24T06:24:43Z
+sea-c,sea,Seattle,AMD EPYC-Genoa Processor,1,json,1.744,0.00,2026-11-24T06:24:44Z
+sea-c,sea,Seattle,AMD EPYC-Genoa Processor,1,compile_sqlite,18.547,0.00,2026-11-24T06:24:45Z
+sea-c,sea,Seattle,AMD EPYC-Genoa Processor,1,zstd_2_cores,3.026,0.00,2026-11-24T06:25:04Z
+sea-c,sea,Seattle,AMD EPYC-Genoa Processor,2,pandas_csv,0.639,0.00,2026-11-24T06:25:07Z
+sea-c,sea,Seattle,AMD EPYC-Genoa Processor,2,json,1.582,0.00,2026-11-24T06:25:08Z
+sea-c,sea,Seattle,AMD EPYC-Genoa Processor,2,compile_sqlite,18.852,0.03,2026-11-24T06:25:09Z
+sea-c,sea,Seattle,AMD EPYC-Genoa Processor,2,zstd_2_cores,3.009,0.00,2026-11-24T06:25:28Z
+sea-c,sea,Seattle,AMD EPYC-Genoa Processor,2,orderbook,1.808,0.00,2026-11-24T06:25:31Z
+sea-c,sea,Seattle,AMD EPYC-Genoa Processor,3,json,1.578,0.00,2026-11-24T06:25:33Z
+sea-c,sea,Seattle,AMD EPYC-Genoa Processor,3,compile_sqlite,18.188,0.00,2026-11-24T06:25:34Z
+sea-c,sea,Seattle,AMD EPYC-Genoa Processor,3,zstd_2_cores,3.134,0.00,2026-11-24T06:25:53Z
+sea-c,sea,Seattle,AMD EPYC-Genoa Processor,3,orderbook,1.846,0.00,2026-11-24T06:25:56Z
+sea-c,sea,Seattle,AMD EPYC-Genoa Processor,3,pandas_csv,0.637,0.00,2026-11-24T06:25:58Z
+sea-d,sea,Seattle,AMD EPYC-Rome Processor,1,orderbook,2.936,0.00,2026-11-24T06:25:42Z
+sea-d,sea,Seattle,AMD EPYC-Rome Processor,1,pandas_csv,1.001,0.00,2026-11-24T06:25:45Z
+sea-d,sea,Seattle,AMD EPYC-Rome Processor,1,json,2.376,0.00,2026-11-24T06:25:46Z
+sea-d,sea,Seattle,AMD EPYC-Rome Processor,1,compile_sqlite,31.477,0.02,2026-11-24T06:25:49Z
+sea-d,sea,Seattle,AMD EPYC-Rome Processor,1,zstd_2_cores,7.264,0.00,2026-11-24T06:26:20Z
+sea-d,sea,Seattle,AMD EPYC-Rome Processor,2,pandas_csv,1.267,0.00,2026-11-24T06:26:27Z
+sea-d,sea,Seattle,AMD EPYC-Rome Processor,2,json,2.640,0.00,2026-11-24T06:26:29Z
+sea-d,sea,Seattle,AMD EPYC-Rome Processor,2,compile_sqlite,29.410,0.00,2026-11-24T06:26:31Z
+sea-d,sea,Seattle,AMD EPYC-Rome Processor,2,zstd_2_cores,8.114,0.00,2026-11-24T06:27:01Z
+sea-d,sea,Seattle,AMD EPYC-Rome Processor,2,orderbook,2.929,0.00,2026-11-24T06:27:09Z
+sea-d,sea,Seattle,AMD EPYC-Rome Processor,3,json,2.428,0.00,2026-11-24T06:27:12Z
+sea-d,sea,Seattle,AMD EPYC-Rome Processor,3,compile_sqlite,29.276,0.00,2026-11-24T06:27:14Z
+sea-d,sea,Seattle,AMD EPYC-Rome Processor,3,zstd_2_cores,4.855,0.00,2026-11-24T06:27:44Z
+sea-d,sea,Seattle,AMD EPYC-Rome Processor,3,orderbook,2.880,0.00,2026-11-24T06:27:48Z
+sea-d,sea,Seattle,AMD EPYC-Rome Processor,3,pandas_csv,1.100,0.00,2026-11-24T06:27:51Z
+sea-e,sea,Seattle,AMD EPYC-Rome Processor,1,orderbook,2.922,0.17,2026-11-24T06:25:36Z
+sea-e,sea,Seattle,AMD EPYC-Rome Processor,1,pandas_csv,1.062,0.00,2026-11-24T06:25:39Z
+sea-e,sea,Seattle,AMD EPYC-Rome Processor,1,json,2.572,0.00,2026-11-24T06:25:40Z
+sea-e,sea,Seattle,AMD EPYC-Rome Processor,1,compile_sqlite,31.078,0.00,2026-11-24T06:25:43Z
+sea-e,sea,Seattle,AMD EPYC-Rome Processor,1,zstd_2_cores,4.851,0.00,2026-11-24T06:26:14Z
+sea-e,sea,Seattle,AMD EPYC-Rome Processor,2,pandas_csv,1.052,0.00,2026-11-24T06:26:19Z
+sea-e,sea,Seattle,AMD EPYC-Rome Processor,2,json,2.411,0.00,2026-11-24T06:26:20Z
+sea-e,sea,Seattle,AMD EPYC-Rome Processor,2,compile_sqlite,29.611,0.00,2026-11-24T06:26:22Z
+sea-e,sea,Seattle,AMD EPYC-Rome Processor,2,zstd_2_cores,4.547,0.00,2026-11-24T06:26:52Z
+sea-e,sea,Seattle,AMD EPYC-Rome Processor,2,orderbook,2.794,0.00,2026-11-24T06:26:56Z
+sea-e,sea,Seattle,AMD EPYC-Rome Processor,3,json,2.431,0.00,2026-11-24T06:26:59Z
+sea-e,sea,Seattle,AMD EPYC-Rome Processor,3,compile_sqlite,29.007,0.00,2026-11-24T06:27:02Z
+sea-e,sea,Seattle,AMD EPYC-Rome Processor,3,zstd_2_cores,4.625,0.00,2026-11-24T06:27:31Z
+sea-e,sea,Seattle,AMD EPYC-Rome Processor,3,orderbook,2.799,0.00,2026-11-24T06:27:35Z
+sea-e,sea,Seattle,AMD EPYC-Rome Processor,3,pandas_csv,1.036,0.00,2026-11-24T06:27:38Z
+sea-f,sea,Seattle,AMD EPYC-Rome Processor,1,orderbook,3.130,0.00,2026-11-24T06:25:51Z
+sea-f,sea,Seattle,AMD EPYC-Rome Processor,1,pandas_csv,1.124,0.00,2026-11-24T06:25:54Z
+sea-f,sea,Seattle,AMD EPYC-Rome Processor,1,json,2.594,0.00,2026-11-24T06:25:55Z
+sea-f,sea,Seattle,AMD EPYC-Rome Processor,1,compile_sqlite,32.238,0.00,2026-11-24T06:25:58Z
+sea-f,sea,Seattle,AMD EPYC-Rome Processor,1,zstd_2_cores,5.025,0.00,2026-11-24T06:26:30Z
+sea-f,sea,Seattle,AMD EPYC-Rome Processor,2,pandas_csv,1.040,0.00,2026-11-24T06:26:35Z
+sea-f,sea,Seattle,AMD EPYC-Rome Processor,2,json,2.273,0.00,2026-11-24T06:26:36Z
+sea-f,sea,Seattle,AMD EPYC-Rome Processor,2,compile_sqlite,30.227,0.02,2026-11-24T06:26:38Z
+sea-f,sea,Seattle,AMD EPYC-Rome Processor,2,zstd_2_cores,4.942,0.00,2026-11-24T06:27:09Z
+sea-f,sea,Seattle,AMD EPYC-Rome Processor,2,orderbook,3.045,0.00,2026-11-24T06:27:14Z
+sea-f,sea,Seattle,AMD EPYC-Rome Processor,3,json,2.394,0.00,2026-11-24T06:27:17Z
+sea-f,sea,Seattle,AMD EPYC-Rome Processor,3,compile_sqlite,30.403,0.00,2026-11-24T06:27:19Z
+sea-f,sea,Seattle,AMD EPYC-Rome Processor,3,zstd_2_cores,4.900,0.00,2026-11-24T06:27:49Z
+sea-f,sea,Seattle,AMD EPYC-Rome Processor,3,orderbook,3.083,0.00,2026-11-24T06:27:54Z
+sea-f,sea,Seattle,AMD EPYC-Rome Processor,3,pandas_csv,1.106,0.00,2026-11-24T06:27:57Z
+sea-g,sea,Seattle,AMD EPYC-Rome Processor,1,orderbook,2.925,0.00,2026-11-24T06:25:56Z
+sea-g,sea,Seattle,AMD EPYC-Rome Processor,1,pandas_csv,1.070,0.00,2026-11-24T06:25:59Z
+sea-g,sea,Seattle,AMD EPYC-Rome Processor,1,json,2.909,0.00,2026-11-24T06:26:00Z
+sea-g,sea,Seattle,AMD EPYC-Rome Processor,1,compile_sqlite,30.948,0.02,2026-11-24T06:26:03Z
+sea-g,sea,Seattle,AMD EPYC-Rome Processor,1,zstd_2_cores,4.584,0.00,2026-11-24T06:26:34Z
+sea-g,sea,Seattle,AMD EPYC-Rome Processor,2,pandas_csv,0.982,0.00,2026-11-24T06:26:39Z
+sea-g,sea,Seattle,AMD EPYC-Rome Processor,2,json,2.279,0.00,2026-11-24T06:26:40Z
+sea-g,sea,Seattle,AMD EPYC-Rome Processor,2,compile_sqlite,28.705,0.00,2026-11-24T06:26:42Z
+sea-g,sea,Seattle,AMD EPYC-Rome Processor,2,zstd_2_cores,4.664,0.00,2026-11-24T06:27:11Z
+sea-g,sea,Seattle,AMD EPYC-Rome Processor,2,orderbook,2.708,0.00,2026-11-24T06:27:15Z
+sea-g,sea,Seattle,AMD EPYC-Rome Processor,3,json,2.243,0.00,2026-11-24T06:27:18Z
+sea-g,sea,Seattle,AMD EPYC-Rome Processor,3,compile_sqlite,29.058,0.00,2026-11-24T06:27:20Z
+sea-g,sea,Seattle,AMD EPYC-Rome Processor,3,zstd_2_cores,4.824,0.00,2026-11-24T06:27:49Z
+sea-g,sea,Seattle,AMD EPYC-Rome Processor,3,orderbook,2.813,0.00,2026-11-24T06:27:54Z
+sea-g,sea,Seattle,AMD EPYC-Rome Processor,3,pandas_csv,0.994,0.00,2026-11-24T06:27:57Z
+sea-h,sea,Seattle,AMD EPYC-Rome Processor,1,orderbook,2.922,0.00,2026-11-24T06:25:56Z
+sea-h,sea,Seattle,AMD EPYC-Rome Processor,1,pandas_csv,1.078,0.00,2026-11-24T06:25:59Z
+sea-h,sea,Seattle,AMD EPYC-Rome Processor,1,json,2.729,0.00,2026-11-24T06:26:00Z
+sea-h,sea,Seattle,AMD EPYC-Rome Processor,1,compile_sqlite,32.435,0.00,2026-11-24T06:26:03Z
+sea-h,sea,Seattle,AMD EPYC-Rome Processor,1,zstd_2_cores,4.594,0.00,2026-11-24T06:26:35Z
+sea-h,sea,Seattle,AMD EPYC-Rome Processor,2,pandas_csv,1.104,0.00,2026-11-24T06:26:40Z
+sea-h,sea,Seattle,AMD EPYC-Rome Processor,2,json,2.288,0.00,2026-11-24T06:26:41Z
+sea-h,sea,Seattle,AMD EPYC-Rome Processor,2,compile_sqlite,30.921,0.00,2026-11-24T06:26:43Z
+sea-h,sea,Seattle,AMD EPYC-Rome Processor,2,zstd_2_cores,4.677,0.00,2026-11-24T06:27:14Z
+sea-h,sea,Seattle,AMD EPYC-Rome Processor,2,orderbook,2.818,0.00,2026-11-24T06:27:19Z
+sea-h,sea,Seattle,AMD EPYC-Rome Processor,3,json,2.302,0.00,2026-11-24T06:27:21Z
+sea-h,sea,Seattle,AMD EPYC-Rome Processor,3,compile_sqlite,30.021,0.00,2026-11-24T06:27:24Z
+sea-h,sea,Seattle,AMD EPYC-Rome Processor,3,zstd_2_cores,4.728,0.00,2026-11-24T06:27:54Z
+sea-h,sea,Seattle,AMD EPYC-Rome Processor,3,orderbook,2.827,0.00,2026-11-24T06:27:58Z
+sea-h,sea,Seattle,AMD EPYC-Rome Processor,3,pandas_csv,1.159,0.00,2026-11-24T06:28:01Z

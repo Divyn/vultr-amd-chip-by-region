@@ -1,0 +1,29 @@
+server,region,city,cpu,orderbook,pandas_csv,json,compile_sqlite,zstd_2_cores,total_s,max_steal_pct
+fra-d,fra,Frankfurt,AMD EPYC-Genoa Processor,1.79,0.63,1.54,17.63,2.71,24.3,0.19
+sea-c,sea,Seattle,AMD EPYC-Genoa Processor,1.85,0.64,1.58,18.55,3.03,25.65,0.03
+sea-a,sea,Seattle,AMD EPYC-Genoa Processor,1.9,0.65,1.63,18.47,3.04,25.69,0.03
+fra-c,fra,Frankfurt,AMD EPYC-Genoa Processor,1.89,0.66,1.66,18.66,3.0,25.87,0.03
+fra-b,fra,Frankfurt,AMD EPYC-Genoa Processor,2.09,0.69,1.68,19.47,3.42,27.35,0.3
+fra-a,fra,Frankfurt,AMD EPYC-Genoa Processor,1.99,0.7,1.76,20.0,3.29,27.74,0.15
+ewr-b,ewr,New Jersey,AMD EPYC-Milan Processor,2.5,0.87,2.14,25.07,4.33,34.91,1.21
+sgp-d,sgp,Singapore,AMD EPYC-Milan Processor,2.55,0.93,2.28,26.2,4.47,36.43,5.03
+syd-c,syd,Sydney,AMD EPYC-Rome Processor,2.77,0.96,2.2,27.49,4.46,37.88,0.0
+syd-b,syd,Sydney,AMD EPYC-Rome Processor,2.82,0.98,2.32,27.73,4.44,38.29,0.02
+syd-d,syd,Sydney,AMD EPYC-Rome Processor,2.69,0.98,2.27,28.0,4.42,38.36,0.0
+ewr-d,ewr,New Jersey,AMD EPYC-Milan Processor,2.58,0.92,3.42,26.97,4.75,38.64,1.65
+sea-g,sea,Seattle,AMD EPYC-Rome Processor,2.81,0.99,2.28,29.06,4.66,39.8,0.02
+syd-a,syd,Sydney,AMD EPYC-Rome Processor,2.91,1.06,2.31,28.92,4.7,39.9,0.02
+sea-e,sea,Seattle,AMD EPYC-Rome Processor,2.8,1.05,2.43,29.61,4.62,40.51,0.17
+ewr-c,ewr,New Jersey,AMD EPYC-Milan Processor,3.17,1.16,2.4,29.06,5.39,41.18,9.52
+sea-h,sea,Seattle,AMD EPYC-Rome Processor,2.83,1.1,2.3,30.92,4.68,41.83,0.0
+sea-f,sea,Seattle,AMD EPYC-Rome Processor,3.08,1.11,2.39,30.4,4.94,41.92,0.02
+sea-b,sea,Seattle,AMD EPYC-Rome Processor,3.06,1.08,2.45,30.49,4.94,42.02,0.09
+sea-d,sea,Seattle,AMD EPYC-Rome Processor,2.93,1.1,2.43,29.41,7.26,43.13,0.02
+bom-d,bom,Mumbai,AMD EPYC-Rome Processor,3.38,1.12,2.68,32.71,5.95,45.84,0.08
+sgp-c,sgp,Singapore,AMD EPYC-Milan Processor,3.57,1.27,3.87,33.73,6.0,48.44,20.18
+bom-a,bom,Mumbai,AMD EPYC-Rome Processor,4.3,1.32,2.87,35.96,6.08,50.53,0.12
+bom-b,bom,Mumbai,AMD EPYC-Rome Processor,3.56,1.28,2.82,37.08,6.02,50.76,0.01
+bom-c,bom,Mumbai,AMD EPYC-Rome Processor,3.51,1.32,2.78,37.31,6.08,51.0,0.08
+ewr-a,ewr,New Jersey,AMD EPYC-Rome Processor,3.87,1.34,3.16,49.23,7.04,64.64,0.16
+sgp-b,sgp,Singapore,AMD EPYC-Rome Processor,5.33,1.68,4.2,50.43,8.26,69.9,6.73
+sgp-a,sgp,Singapore,AMD EPYC-Rome Processor,5.16,1.6,4.89,49.27,9.95,70.87,1.8

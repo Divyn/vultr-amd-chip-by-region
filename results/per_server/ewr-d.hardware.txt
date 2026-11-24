@@ -1,0 +1,5 @@
+CPU(s):                                  2
+Model name:                              AMD EPYC-Milan Processor
+Mem:            3916         340        3626           0         142        3575
+Debian GNU/Linux 13 (trixie)
+6.12.117+deb13-amd64

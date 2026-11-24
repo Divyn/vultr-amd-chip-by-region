@@ -1,0 +1,4 @@
+Python 3.13.5
+pandas 3.1.1 numpy 2.5.5
+gcc (Debian 14.2.0-19) 14.2.0
+*** Zstandard CLI (64-bit) v1.5.7, by Yann Collet ***
